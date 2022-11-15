@@ -1,4 +1,4 @@
-[![Header](https://github.com/galeneia/galeneia/blob/main/assets/photo.jpg)
+![Header](https://github.com/galeneia/galeneia/blob/main/assets/photo.jpg)
 ## I'm a Junior QA Engineer. 
 
 ### Language and Tools
