@@ -12,7 +12,7 @@
 ![Header](https://img.shields.io/badge/CharlesProxy-090909?style=for-the-badge&logo=charlesproxy&logoColor=8cc4d7)
 
 ### Testing Artefacts
-
+- [QA course: theory of testing](https://github.com/galeneia/Test-theory.git)
 
 ### Follow Me
 
