@@ -13,6 +13,13 @@
 
 ### Testing Artefacts
 - [QA course: theory of testing](https://github.com/galeneia/Test-theory.git)
+- [QA course: test design technics](https://github.com/galeneia/Test-design.git)
+- [QA course: testing documentation](https://github.com/galeneia/Testing-documentation.git)
+- [QA course: webApps testing](https://github.com/galeneia/Tesing-of-web-apps.git)
+- [QA course: CharlesProxy and Fiddler+FiddlerEverywhere tools](https://github.com/galeneia/Charles-Proxy-and-Fiddler.git)
+- [QA course: API testing](https://github.com/galeneia/API-testing.git)
+- [QA course: testing of data bases](https://github.com/galeneia/DB-testing.git)
+- [QA course: mobile apps testing](https://github.com/galeneia/MobileApp-testing.git)
 
 ### Follow Me
 
