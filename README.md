@@ -11,7 +11,7 @@
 ![Header](https://img.shields.io/badge/Fiddler-090909?style=for-the-badge&logo=fiddler&logoColor=8cc4d7)
 ![Header](https://img.shields.io/badge/CharlesProxy-090909?style=for-the-badge&logo=charlesproxy&logoColor=8cc4d7)
 
-### Testing Artefacts
+### Testing Documentation
 - [QA course: theory of testing](https://github.com/galeneia/Test-theory.git)
 - [QA course: test design technics](https://github.com/galeneia/Test-design.git)
 - [QA course: testing documentation](https://github.com/galeneia/Testing-documentation.git)
