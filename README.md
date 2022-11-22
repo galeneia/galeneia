@@ -20,6 +20,7 @@
 - [QA course: API testing](https://github.com/galeneia/API-testing.git)
 - [QA course: testing of data bases](https://github.com/galeneia/DB-testing.git)
 - [QA course: mobile apps testing](https://github.com/galeneia/MobileApp-testing.git)
+- [QA course: practice with bash](https://github.com/galeneia/bash-practice)
 
 ### Follow Me
 
