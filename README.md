@@ -2,6 +2,8 @@
 ## I'm a Junior QA Engineer. 
 ## My CV
 [Link to my CV](https://drive.google.com/file/d/1nVExWs233wrSsKF0WMzV7hnRc4tGzf76/view?usp=sharing)
+## My certificates
+[Link to my certificate](https://drive.google.com/file/d/1PG4BuLHEnNNz7T0MaKD5VUgPNDV28KCV/view?usp=sharing)
 ### Language and Tools
 ![Header](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=f76935)
 ![Header](https://img.shields.io/badge/Swagger-090909?style=for-the-badge&logo=swagger&logoColor=7ede2b)
